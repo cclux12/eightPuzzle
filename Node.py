@@ -49,6 +49,3 @@ class Node:
                 if puz[i][j] == x:
                     return i,j
 
-
-if __name__ == "__main__":
-    print("Node")
